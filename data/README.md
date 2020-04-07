@@ -165,6 +165,7 @@ Note: These are mostly official sources of information. Unofficial sources of in
 * Department of Health - South Africa [Main Site](http://www.health.gov.za/), [Twitter](https://twitter.com/HealthZA/)
 * South African Government Media Statements [URL](https://www.gov.za/media-statements)
 * **Machine Readable Repo** [github.com/dsfsi/covid19za](https://github.com/dsfsi/covid19za)South Africa
+* Corona Telegram Bot for South Africa https://t.me/CoronaZABot
 
 ### Sudan
 
